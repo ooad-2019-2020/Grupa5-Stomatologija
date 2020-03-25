@@ -54,11 +54,16 @@ MODULI:
 3. Pogled pacijenta
 
 
+
+
 Direktori:
 
 -Pregled pacijenata,termina,doktora,odjela.
 
 -Ažuriranje i dodavanje doktora.
+
+
+
 
 
 Doktori:
@@ -68,11 +73,15 @@ Doktori:
 -Ažuriranje medicinskog kartona pacijenta.
 
 
+
+
 Pacijenti:
 
 -Pregled dostupnih termina i doktora.
 
 -Pristup cjenovniku usluga.
+
+
 
 
 
