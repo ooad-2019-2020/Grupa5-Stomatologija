@@ -39,6 +39,11 @@ Procesi:
 • Pacijent ima pravo pristupa cjenovniku usluga.
 
 
+
+
+
+
+
 Funkcionalnosti:
 
 
