@@ -37,5 +37,49 @@ Procesi:
 
 •	Pacijent ima pravo pristupa cjenovniku usluga.
 
+Funkcionalnosti:
+
+•	Funkcionalni zahtjevi:
+
+MODULI:
+
+1.	Pogled direktora
+
+2.	Pogled doktora
+
+3.	Pogled pacijenta
+
+Direktori:
+
+-Pregled pacijenata,termina,doktora,odjela.
+
+-Ažuriranje i dodavanje doktora.
+
+
+Doktori:
+
+-Pregled pacijenata,termina pregleda.
+
+-Ažuriranje medicinskog kartona pacijenta.
+
+
+Pacijenti:
+
+-Pregled dostupnih termina i doktora.
+
+-Pristup cjenovniku usluga.
+
+
+Akteri:
+
+•	Direktori
+
+•	Doktori
+
+•	Pacijenti
+
+
+
+
 
 
